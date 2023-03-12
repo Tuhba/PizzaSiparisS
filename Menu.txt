@@ -1,0 +1,14 @@
+* Lütfen Pizzanızı Seçiniz:
+1: Klasik Pizza      40
+2: Margarita         50
+3: Türk Pizza        50
+4: Sade Pizza        35
+5: Bol Sucuklu Pizza 55
+* Seçmek İstediğiniz Ekstra Malzemeler:
+11: Zeytin     3
+12: Mantar     5
+13: Peynir     8
+14: Et         15
+15: Soğan      4
+16: Mısır      8
+* Seçiminiz İçin Teşekkür Ederiz!
